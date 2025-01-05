@@ -29,7 +29,7 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques": ["[+200 Culture] [in capital] <before discovering [Steam Power]>"],
+		"uniques": ["[+200 Culture] [in all cities] <before discovering [Steam Power]>"],
 		"cities": ["Die Klinik","Rathaus","Bowling Bahn","Dönerladen","Bushaltestelle","Belgermühle","Kindergarten",]
 	}
 ]
